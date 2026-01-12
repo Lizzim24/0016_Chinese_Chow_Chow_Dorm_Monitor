@@ -1,2 +1,2 @@
-# 0016_Tusong-friendly_Dorm_Environment_Monitor
+# 0016_Chinese_Chow_Chow_Dorm_Monitor
 Personal Coursework for CASA0016 by Lizi
