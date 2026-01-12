@@ -198,7 +198,7 @@ The visual centerpiece is a 3D-printed Voronoi Dog model (based on an open-sourc
 A 24-hour test in a ~20 m² student dorm showed:
 
 - **14:00** – Direct sunlight raised temperature to ~25.5 °C → Yellow caution alert  
-- **19:00** – Use of cleaning spray raised MQ135 reading to 4.2 ppm (NH₃) → Orange “Dirty Air” alert  
+- **19:00** – Use of cleaning spray raised MQ135 reading to 256 ppm (NH₃) → Red “Dirty Air” alert  
 
 These patterns suggest that:
 
