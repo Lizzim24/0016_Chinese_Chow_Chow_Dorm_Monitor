@@ -239,6 +239,33 @@ Planned/possible extensions:
 
 ---
 
+## 🛠️ Tools & Technologies Used
+
+### **Hardware & Prototyping**
+- Arduino MKR WiFi 1010 (Cortex-M0+ MCU)
+- DHT22 (Temperature & Humidity)
+- MQ135 (VOC + Ammonia Gas Sensor)
+- MAX9814 (AGC Microphone Module)
+- 4-Pin RGB LED Indicator
+- 2.9" E-Paper Display
+- Breadboard + Jumper Wires + three 330Ω Resistors + two 10kΩ Resistors
+- USB Power Supply
+
+### **Software & Programming**
+- Arduino IDE (Embedded C++)
+- GxEPD2 (E-Paper Display Library)
+- DHT Sensor Library
+- Analog Signal Processing (MAX9814)
+- Trapezoidal Mapping Algorithm (Custom)
+- Safety Override Logic (Custom)
+
+### **CAD & Manufacturing**
+- Autodesk Fusion 360 (3D Design)
+- FDM 3D Printing (Enclosure)
+- PLA Filament (White & Black)
+- Fusion STL Export → Slicing Pipeline
+
+
 ## 📚 References
 
 - American Kennel Club (AKC) (2023) Chow Chow Dog Breed Information. Available at: https://www.akc.org/dog-breeds/chow-chow/ (Accessed: 10 January 2026).
