@@ -1,4 +1,4 @@
-# Chinese Chow Chow Dorm Environment Monitor
+# Chinese Chow Chow Dorm Monitor
 
 <p align="center">
   <img src="media/enclosure.png" width="350"/><br>
